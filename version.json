@@ -1,5 +1,5 @@
 {
-  "version": "1.5.0",
+  "version": "1.6.0",
   "apkUrl": "https://raw.githubusercontent.com/QWE123acb/medphoto/master/release/app.apk",
-  "notes": "v1.5：一键自动更新（下载→自动安装→自动删除安装包，数据不丢失）"
+  "notes": "v1.6：大图手势缩放——双指放大（1–4 倍）、放大后拖动看细节、双击放大/还原"
 }
