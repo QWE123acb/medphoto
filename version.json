@@ -1,5 +1,4 @@
-{
-  "version": "1.6.0",
-  "apkUrl": "https://raw.githubusercontent.com/QWE123acb/medphoto/master/release/app.apk",
-  "notes": "v1.6：大图手势缩放——双指放大（1–4 倍）、放大后拖动看细节、双击放大/还原"
+{"version": "1.7.0",
+ "apkUrl": "https://raw.githubusercontent.com/QWE123acb/medphoto/master/release/app.apk",
+ "notes": "v1.7：对比·时间线·报告页照片手势缩放（双指放大1–4倍·放大后拖动·双击还原）"
 }
